@@ -34,3 +34,22 @@
   font-size: 1.1rem;
   color: var(--text-light);
 }
+.logo {
+  font-size: 1.5rem;
+  font-weight: 600;
+  font-family: var(--header-font);
+}
+
+img {
+  display: flex;
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+ul {
+  list-style: none;
+}
