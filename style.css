@@ -158,4 +158,16 @@ nav {
 
 .header__content p {
   font-size: 1.2rem;
-  color: var(--
+  color: var(--text-light);
+}
+
+.deals__container {
+  display: grid;
+  gap: 2rem;
+}
+
+.deals__card span {
+  display: inline-block;
+  margin-bottom: 0.5rem;
+  font-size: 2rem;
+}
