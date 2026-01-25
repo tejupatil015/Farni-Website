@@ -107,3 +107,16 @@ nav {
   z-index: -1;
   transform: translateY(-100%);
 }
+
+.nav__links.open {
+  transform: translateY(0);
+}
+
+.nav__links a {
+  font-weight: 500;
+  color: var(--white);
+}
+
+.nav__search {
+  display: none;
+}
