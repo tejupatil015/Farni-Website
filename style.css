@@ -298,3 +298,20 @@ nav {
 .client__content .section__header {
   font-size: 3.25rem;
 }
+
+.swiper {
+  margin-top: 4rem;
+  width: 100%;
+}
+
+.client__card {
+  display: grid;
+  gap: 2rem;
+  max-width: 750px;
+  margin-inline: auto;
+  text-align: center;
+}
+
+.client__card img {
+  max-width: 250px;
+  margin-inline: auto;
