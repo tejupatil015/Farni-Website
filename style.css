@@ -368,4 +368,21 @@ nav {
   font-size: 1.5rem;
   color: var(--white);
 }
+
+.footer__socials a:hover {
+  opacity: 0.5;
+}
+
+.footer__col h4 {
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  color: var(--white);
+}
+
+.footer__links {
+  display: grid;
+  gap: 1rem;
+}
+
   
