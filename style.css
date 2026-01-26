@@ -352,4 +352,20 @@ nav {
 .footer__logo .logo {
   color: var(--white);
 }
+.footer__col p {
+  margin-bottom: 2rem;
+  color: var(--extra-light);
+  opacity: 0.8;
+}
+
+.footer__socials {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.footer__socials a {
+  font-size: 1.5rem;
+  color: var(--white);
+}
   
