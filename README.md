@@ -78,7 +78,7 @@ Organized folder structure
 
 🚀 How to Run the Project
 
-1. Clone the repository:
+1. Clone the repository:  https://github.com/tejupatil015/Farni-Website.git
 
 
 
